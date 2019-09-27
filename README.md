@@ -9,4 +9,4 @@ Highlights of the project:
 Remarks:
 - This project is created and completed during hackathon HackTheNorth in September 2019. 
 - Collaboration with team members Nayan Saxena and Vicky Chen.
-
+- More detailed documentation and a short demo video can be found here: https://devpost.com/software/dot-tfa5re
